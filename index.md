@@ -1,5 +1,3 @@
-## Peaq PMM C1010 Drivers
-
 Op deze site kun je de drivers voor de Peaq PMM C1010 kosteloos downloaden. Handig, wanneer je bijvoorbeeld Windows opnieuw wilt installeren. Of wanneer er na een update van Windows iets het niet meer doet.
 
 ![Peaq PMM C1010](peaq-laptop.jpeg)
@@ -9,56 +7,56 @@ Hieronder staan de links naar de installatiebestanden van de drivers. Deze kun j
 
 **Download de drivers**
 
-Chipset: [Download](url)
+Chipset: [Download](https://storage.googleapis.com/peaq-pmm-c1010-drivers/01_Chipset.zip)
 
 Een basisdriver waarmee o.a. de helderheid van het scherm geregeld kan worden. Installatie via Setup (2x)
 
-Wi-Fi: [Download](url)
+Wi-Fi: *Download tijdelijk niet beschikbaar*
 
 Drivers voor draadloos netwerk. Installatie via Setup. Meestal zijn deze al vanzelf geïnstalleerd en heb je deze dus niet nodig.
 
-Bluetooth: [Download](url)
+Bluetooth: [Download](https://storage.googleapis.com/peaq-pmm-c1010-drivers/03_Bluetooth.zip)
 
 Drivers voor de Bluetooth. Installatie via Setup.
 Meestal zijn deze al vanzelf geïnstalleerd en heb je deze dus niet nodig.
 
-Realtek: [Download](url)
+Realtek: [Download](https://storage.googleapis.com/peaq-pmm-c1010-drivers/04_Realtek.zip)
 
 Software voor het regelen van het geluid. Installatie via Apparaatbeheer
 
-Audio: [Download](url)
+Audio: [Download](https://storage.googleapis.com/peaq-pmm-c1010-drivers/05_Audio.zip)
 
 Drivers voor de geluidskaart. Installatie via Apparaatbeheer
 
-Dolby: [Download](url)
+Dolby: [Download](https://storage.googleapis.com/peaq-pmm-c1010-drivers/06_Dolby.zip)
 
 Drivers voor Dolby Digital-geluidseffecten. Installatie via Setup (1) en Batchbestand (2)
 
-Camera’s: [Download](url)
+Camera’s: [Download](https://storage.googleapis.com/peaq-pmm-c1010-drivers/07_Camera.zip)
 
 Drivers voor de camera’s van de 2-in-1. Installatie via Batchbestand of Apparaatbeheer
 
-Geheugenkaartlezer: [Download](url)
+Geheugenkaartlezer: [Download](https://storage.googleapis.com/peaq-pmm-c1010-drivers/08_Cardreader.zip)
 
 Drivers voor de geheugenkaartlezers (zowel tablet als dock). Installatie via Setup.
 
-G-Sensor: [Download](url)
+G-Sensor: [Download](https://storage.googleapis.com/peaq-pmm-c1010-drivers/09_G-Sensor.zip)
 
 Driver voor het automatisch draaien van het scherm bij het kantelen van de tablet. Installatie via autorun-bestand.
 
-Dolby On-Screen Display: [Download](url)
+Dolby On-Screen Display: [Download](https://storage.googleapis.com/peaq-pmm-c1010-drivers/10_OSD.zip)
 
 Driver voor wisselen van Dolby-stand bij drukken op het knopje aan de zijkant van het apparaat (toont dan een pop-up). Installatie via Setup
 
-Trackpad: [Download](url)
+Trackpad: [Download](https://storage.googleapis.com/peaq-pmm-c1010-drivers/Touchpad-driver.zip)
 
 Driver voor het muispad / trackpad. Installatie via Setup
 
-Trackpad – alternatief: [Download](url)
+Trackpad – alternatief: [Download](https://storage.googleapis.com/peaq-pmm-c1010-drivers/11_Touchpad.zip)
 
 Gebruik deze wanneer de eerste trackpad-driver niet werkt. Installatie via Setup.
 
-Continuum Mode: [Download](url)
+Continuum Mode: [Download](https://storage.googleapis.com/peaq-pmm-c1010-drivers/ContinuumMode-driver.zip)
 
 Driver voor automatisch wisselen tussen tablet en laptopmodus van Windows. Uniek op deze website! Vereist aangepaste installatie (zie hieronder).!
 
