@@ -1,6 +1,6 @@
 Op deze site kun je de drivers voor de Peaq PMM C1010 kosteloos downloaden. Handig, wanneer je bijvoorbeeld Windows opnieuw wilt installeren. Of wanneer er na een update van Windows iets het niet meer doet.
 
-###### ℹ️ Deze downloadpagina vervangt de [eerdere website](https://peaqpmmc1010drivers.nl). Hij bevat dezelfde software, maar kan voor mij geheel kosteloos beschikbaar worden gesteld.
+###### ℹ️ Deze downloadpagina vervangt de [eerdere website](https://peaqpmmc1010drivers.nl). Hij bevat dezelfde software, maar kan ook in de toekomst geheel kosteloos aan u beschikbaar worden gesteld.
 
 ![Peaq PMM C1010](peaq-laptop.jpeg)
 *Peaq PMM C1010*
