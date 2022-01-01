@@ -11,7 +11,7 @@ Chipset: [Download](https://storage.googleapis.com/peaq-pmm-c1010-drivers/01_Chi
 
 Een basisdriver waarmee o.a. de helderheid van het scherm geregeld kan worden. Installatie via Setup (2x)
 
-Wi-Fi: *Download tijdelijk niet beschikbaar*
+Wi-Fi: *Download niet beschikbaar. Het bestand was helaas beschadigd geraakt en kon niet meer worden gebruikt.*
 
 Drivers voor draadloos netwerk. Installatie via Setup. Meestal zijn deze al vanzelf geïnstalleerd en heb je deze dus niet nodig.
 
